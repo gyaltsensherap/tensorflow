@@ -1,1 +1,2 @@
 this is created from b1 to show conflict
+this is master test file
